@@ -1,0 +1,1 @@
+Name: ram nep: 56 eng:76 mat: 67 sic: 88 com:78 total: 365 percentage: 73.0 grade: A 
